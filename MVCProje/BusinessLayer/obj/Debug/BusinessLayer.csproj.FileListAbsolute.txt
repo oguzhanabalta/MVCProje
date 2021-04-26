@@ -1,0 +1,6 @@
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\obj\Debug\BusinessLayer.pdb

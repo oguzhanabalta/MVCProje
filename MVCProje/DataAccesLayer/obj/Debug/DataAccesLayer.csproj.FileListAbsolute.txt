@@ -1,0 +1,15 @@
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\obj\Debug\DataAccesLayer.csprojAssemblyReference.cache
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\obj\Debug\DataAccesLayer.pdb
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\bin\Debug\EntitiyLayer.dll
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\bin\Debug\EntityFramework.dll
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\bin\Debug\EntitiyLayer.pdb
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\bin\Debug\EntitiyLayer.dll.config
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\bin\Debug\EntityFramework.xml
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
