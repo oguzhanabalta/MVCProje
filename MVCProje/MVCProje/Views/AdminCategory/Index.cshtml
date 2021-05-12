@@ -1,0 +1,38 @@
+﻿@using EntitiyLayer.Concrete
+@model List<Category>
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br />
+
+
+<h2>MVC KAMP TABLO ÖRNEĞİ-KATEGORİ</h2>
+<br />
+<table class="table table-bordered table-hover table-striped">
+    <tr>
+        <th>#</th>
+        <th>AD</th>
+        <th>AÇIKLAMA</th>
+        <th>SİL</th>
+        <th>GÜNCELLE</th>
+        <th>BAŞLIKLAR</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <th>@item.CategoryID</th>
+            <td>@item.CategoryName</td>
+            <td>@item.CategoryDescription</td>
+            <td><a href="/AdminCategory/DeleteCategory/@item.CategoryID" class="btn btn-danger" >SİL</a></td>
+            <td><a href="/AdminCategory/EditCategory/@item.CategoryID" class="btn btn-warning">GÜNCELLE</a></td>
+            <td><a href="#" class="btn btn-primary">BAŞLIKLAR</a></td>
+        </tr>
+    }
+
+</table>
+
+<a href="/AdminCategory/AddCategory" class="btn btn-primary">YENİ KATEGORİ</a>
+

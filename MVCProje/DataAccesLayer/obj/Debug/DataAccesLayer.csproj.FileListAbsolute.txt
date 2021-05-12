@@ -13,3 +13,5 @@ C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\bin\Debug\EntitiyLayer.dll.c
 C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\bin\Debug\EntityFramework.xml
 C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\bin\Debug\FluentValidation.dll
+C:\Users\oguzh\source\repos\MVCProje\DataAccesLayer\bin\Debug\FluentValidation.xml

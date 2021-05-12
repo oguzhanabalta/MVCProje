@@ -4,3 +4,17 @@ C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\obj\Debug\BusinessLayer.cspro
 C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
 C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\bin\Debug\EntitiyLayer.dll
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\bin\Debug\EntitiyLayer.pdb
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\bin\Debug\EntitiyLayer.dll.config
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\oguzh\source\repos\MVCProje\BusinessLayer\bin\Debug\FluentValidation.xml
